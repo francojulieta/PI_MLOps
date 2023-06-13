@@ -1,15 +1,35 @@
 # PI_MLOps
 Primer proyecto individual de Data Science
 
-Contexto
-Tenemos un modelo de recomendación dando unas buenas métricas 😏, y ahora, cómo lo llevas al mundo real? 👀
+# PI_MLOps
+Primer proyecto individual de Data Science
 
-El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos (Data Engineer stuff) hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos.
 
-Rol a desarrollar
-Empezaste a trabajar como Data Scientist en una start-up que provee servicios de agregación de plataformas de streaming. El mundo es bello y vas a crear tu primer modelo de ML que soluciona un problema de negocio: un sistema de recomendación que aún no ha sido puesto en marcha!
 
-Vas a sus datos y te das cuenta que la madurez de los mismos es poca (ok, es nula 😭): Datos anidados, sin transformar, no hay procesos automatizados para la actualización de nuevas películas o series, entre otras cosas…. haciendo tu trabajo imposible 😩.
+En este archivo de instrucciones, encontrarás toda la documentación necesaria para utilizar la API que se ha desarrollado según los requerimientos solicitados.
 
-Debes empezar desde 0, haciendo un trabajo rápido de Data Engineer y tener un MVP (Minimum Viable Product) para la próxima semana! Tu cabeza va a explotar 🤯, pero al menos sabes cual es, conceptualmente, el camino que debes de seguir ❗. Así que te espantas los miedos y te pones manos a la obra 💪
+Contexto del proyecto:
+El proyecto se basa en un conjunto de datos de la industria cinematográfica que abarca películas producidas desde 1874 hasta 2020. Este conjunto de datos proporciona información relevante como fechas de lanzamiento, presupuestos, recaudaciones, duración, puntuación, productoras y más. Con esta valiosa información, es posible realizar análisis y exploraciones de datos para descubrir tendencias y patrones en la industria cinematográfica.
 
+Desafíos enfrentados:
+El proceso de extracción, transformación y carga de datos (ETL) puede ser un desafío, especialmente cuando se trata de archivos con estructuras complejas, como JSON. En el caso particular de este conjunto de datos cinematográficos, uno de los desafíos más importantes fue manejar las columnas anidadas en formato JSON, las cuales requerían una limpieza y un preprocesamiento cuidadoso. Además, la presencia de numerosos valores nulos y formatos de datos inadecuados también representaron desafíos adicionales que requirieron soluciones creativas.
+
+Se han completado los siguientes objetivos:
+
+Proceso de ETL.
+Análisis exploratorio de los datos.
+Implementación de la API.
+
+Endpoints de la API:
+La API cuenta con los siguientes endpoints:
+
+► Cantidad de películas estrenadas en un mes.
+► Cantidad de películas estrenadas en un día.
+► Título, año de estreno y puntuación de una película específica.
+► Título, cantidad de votos y valor promedio de votación de una película con al menos 2000 valoraciones.
+► Nombre de un actor, su éxito medido por el retorno de inversión, cantidad de películas en las que ha participado y promedio de retorno de inversión.
+► Nombre de un director, su éxito medido por el retorno de inversión, lista de películas en las que ha participado con la fecha de lanzamiento, retorno de inversión individual, costo y ganancia de cada una.
+► Sistema de recomendación de películas similares.
+
+Deployment:
+Para implementar esta aplicación, se utilizó FastAPI y RENDER.
