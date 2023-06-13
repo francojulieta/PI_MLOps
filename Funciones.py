@@ -2,7 +2,6 @@ import pandas as pd
 import unicodedata
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from unidecode import unidecode
 
 df = pd.read_csv("Movies_EDA.csv", sep=",")
 
@@ -106,17 +105,11 @@ def get_director(nombre_director):
 
 # API 7
 
-def normalize_text(text):
-    if isinstance(text, str):
-        text = unidecode(text.lower())
-    else:
-        text = text.apply(lambda x: unidecode(x.lower()))
-    return text
 
 def recommend_movies(title):
-    title = normalize_text(title)
+    
 
-    movie = df[normalize_text(df['title'].apply(normalize_text)) == title]
+    movie = df["title"]
 
     if len(movie) == 0:
         return "No se encontró la película en la base de datos."
