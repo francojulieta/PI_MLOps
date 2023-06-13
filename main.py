@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from fastapi import FastAPI
 import uvicorn
 from utils.Funciones import cantidad_filmaciones_mes, cantidad_filmaciones_dia, score_titulo, votos_titulo, get_actor, get_director, recommend_movies
