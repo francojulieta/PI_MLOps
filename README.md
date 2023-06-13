@@ -1,8 +1,6 @@
 # PI_MLOps
 Primer proyecto individual de Data Science
 
-image.png
-
 En este archivo de instrucciones, encontrarás toda la documentación necesaria para utilizar la API que se ha desarrollado según los requerimientos solicitados.
 
 Contexto del proyecto:
