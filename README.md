@@ -1,9 +1,6 @@
 # PI_MLOps
 Primer proyecto individual de Data Science
 
-# PI_MLOps
-Primer proyecto individual de Data Science
-
 
 
 En este archivo de instrucciones, encontrarás toda la documentación necesaria para utilizar la API que se ha desarrollado según los requerimientos solicitados.
@@ -33,3 +30,5 @@ La API cuenta con los siguientes endpoints:
 
 Deployment:
 Para implementar esta aplicación, se utilizó FastAPI y RENDER.
+
+Para la realización de es
