@@ -1,7 +1,7 @@
 # PI_MLOps
 Primer proyecto individual de Data Science
 
-
+image.png
 
 En este archivo de instrucciones, encontrarás toda la documentación necesaria para utilizar la API que se ha desarrollado según los requerimientos solicitados.
 
@@ -17,7 +17,6 @@ Proceso de ETL.
 Análisis exploratorio de los datos.
 Implementación de la API.
 
-Endpoints de la API:
 La API cuenta con los siguientes endpoints:
 
 ► Cantidad de películas estrenadas en un mes.
@@ -31,4 +30,6 @@ La API cuenta con los siguientes endpoints:
 Deployment:
 Para implementar esta aplicación, se utilizó FastAPI y RENDER.
 
-Para la realización de es
+Link:
+https://apienfastapi.onrender.com
+
