@@ -5,14 +5,14 @@
 ![Machine Learning](https://media.istockphoto.com/id/1475019932/es/vector/banner-de-tipograf%C3%ADa-colorida-de-machine-learning.jpg?s=170667a&w=0&k=20&c=zSzYtPmLVhCaDstbxO3oF0C-0yB1WHZijibup1P8CWE=)
 
   
-## Contexto:
+## 💣 Contexto:
 
 El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos (Data Engineer stuff) hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos.
 
 ![MLOPS](https://topbigdata.es/wp-content/uploads/2020/10/2020-2026-Se-estima-que-el-aprendizaje-automatico-como-mercado-de.gif)
   
 
-## Introducción:
+## 💣 Introducción:
 
   
 
@@ -35,7 +35,7 @@ Finalmente, desarrollé una API que permite realizar consultas a la base de dato
 Durante todo el proyecto, he aplicado diversas técnicas y habilidades aprendidas en SoyHenry, y he buscado generar un producto final que sea útil y efectivo en la recomendación de películas a los usuarios.
 
 
-## Objetivo:
+## 💣 Objetivo:
 
   
 
@@ -61,7 +61,7 @@ Durante todo el proyecto, he aplicado diversas técnicas y habilidades aprendida
   
   
 
-## Tecnologías utilizadas:
+## 💣 Tecnologías utilizadas:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -89,7 +89,7 @@ Durante todo el proyecto, he aplicado diversas técnicas y habilidades aprendida
   
   
 
-## ETL
+## 💣 ETL
 
   
   
@@ -117,7 +117,7 @@ Transformaciones solicitadas:
   
   
 
-## EDA
+## 💣 EDA
 
   
 
@@ -144,7 +144,7 @@ En el análisis exploratorio de datos (EDA), se continuó examinando las columna
 
   
 
-## Funciones y Sistema de recomendación
+## 💣 Funciones y Sistema de recomendación
 
   
 
@@ -168,7 +168,7 @@ Además, es importante destacar que todas las API desarrolladas en este proyecto
 
   
 
-## Deploy
+## 💣 Deploy
 
   
 
@@ -184,7 +184,7 @@ Una vez que el archivo .py se encontró listo, se utilizó Render para poner en 
 
   
 
-# Link deploy
+# 🚀 Link deploy
 
   
 
@@ -192,7 +192,7 @@ https://fastapi-d81w.onrender.com/docs#/
 
     
 
-# Cierre
+# 🛰 Cierre
 
 Gracias por haberme acompañado en este hermoso proceso, estoy muy feliz de lo que logré hasta ahora y espero les haya gustado. ¡Vamos por más! 🙌💖
 
