@@ -1,14 +1,15 @@
-# MLOps Engineer
 
-  
+<h1 align="center"> 🚀 MLOps Engineer 🚀</h1>
+ 
 
-![Machine Learning](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)
+![Machine Learning](https://media.istockphoto.com/id/1475019932/es/vector/banner-de-tipograf%C3%ADa-colorida-de-machine-learning.jpg?s=170667a&w=0&k=20&c=zSzYtPmLVhCaDstbxO3oF0C-0yB1WHZijibup1P8CWE=)
+
   
 ## Contexto:
 
 El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tratamiento y recolección de los datos (Data Engineer stuff) hasta el entrenamiento y mantenimiento del modelo de ML según llegan nuevos datos.
 
-![MLOPS](https://raw.githubusercontent.com/HX-PRomero/PI_ML_OPS/main/src/DiagramaConceptualDelFlujoDeProcesos.png)
+![MLOPS](https://topbigdata.es/wp-content/uploads/2020/10/2020-2026-Se-estima-que-el-aprendizaje-automatico-como-mercado-de.gif)
   
 
 ## Introducción:
@@ -33,7 +34,6 @@ Finalmente, desarrollé una API que permite realizar consultas a la base de dato
 
 Durante todo el proyecto, he aplicado diversas técnicas y habilidades aprendidas en SoyHenry, y he buscado generar un producto final que sea útil y efectivo en la recomendación de películas a los usuarios.
 
-  
 
 ## Objetivo:
 
@@ -184,20 +184,17 @@ Una vez que el archivo .py se encontró listo, se utilizó Render para poner en 
 
   
 
-# ....
+# Link deploy
 
   
 
-Link:
+https://fastapi-d81w.onrender.com/docs#/
 
-  
-
-# Video
-
-  
-
-Link
-
-  
+    
 
 # Cierre
+
+Gracias por haberme acompañado en este hermoso proceso, estoy muy feliz de lo que logré hasta ahora y espero les haya gustado. ¡Vamos por más! 🙌💖
+
+
+![Meme](https://media.licdn.com/dms/image/D4E22AQHmmAVRQWqWEg/feedshare-shrink_2048_1536/0/1686340749433?e=2147483647&v=beta&t=wHMWK_O1eU5pgZhp2hnhgoPaYy_dIHPf_gijtEkF92s)
