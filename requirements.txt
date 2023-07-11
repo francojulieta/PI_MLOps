@@ -5,5 +5,5 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-missingno
-wordcloud
+unidecode
+json
